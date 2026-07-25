@@ -80,7 +80,7 @@ export default function FinalCTA() {
               rel="noopener noreferrer" 
               className="text-neon-accent/80 hover:text-neon-accent transition-colors font-bold underline decoration-neon-accent/30 underline-offset-4"
             >
-              Frame &amp; Flow Media
+              Frame n Flow Media
             </a>
           </div>
         </div>
